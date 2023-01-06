@@ -6,6 +6,8 @@
 
 > Desenvolvedora Júnior
 
+<img src="https://aniyuki.com/wp-content/uploads/2022/05/aniyuki-anya-spy-x-family-12.gif" width="350"/>
+
 <p>
 <img src="https://img.shields.io/badge/JavaScript-f55247"/>
 <img src="https://img.shields.io/badge/Java-f55247"/>
@@ -17,9 +19,6 @@
 <img src="https://img.shields.io/badge/React-f55247"/>
 <img src="https://img.shields.io/badge/ReactNative-f55247"/>
 </p>
-
-
-<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=amorimdani&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=amorimdani&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=true" style="max-width: 100%;">
  
 <details>
 <summary>:trophy: Contact</summary>
